@@ -99,7 +99,7 @@ Press **Ctrl + C** to stop the development server.
 
 The application displays all 12 months of 2026 in a four-column, three-row calendar layout.
 
-*Screenshot coming soon.*
+<img width="570" height="668" alt="React-2026Calendar" src="https://github.com/user-attachments/assets/e07f17ce-a351-4f0c-b3cf-accfcdb3187f" />
 
 ## 🧠 Implementation Details
 
